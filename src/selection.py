@@ -1,7 +1,7 @@
 #####################################SELECTION##################################SELECTION##########################################
 import pandas as pd
 
-df = pd.read_csv("data.csv",index_col="Name") #index_col is sort of primary key here from SQL but for those files, idk if you got it or not
+df = pd.read_csv("pandas_python/src/data.csv",index_col="Name") #index_col is sort of primary key here from SQL but for those files, idk if you got it or not
 
 
 # #SELECTION BY COLUMN
