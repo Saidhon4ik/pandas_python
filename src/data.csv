@@ -1,5 +1,9 @@
 No,Name,Type1,Type2,Height,Weight,Legendary
 1,Bulbasaur,Grass,Poison,0.7,6.9,0
+1,Bulbasaur,Grass,Poison,0.7,6.9,0
+1,Bulbasaur,Grass,Poison,0.7,6.9,0
+1,Bulbasaur,Grass,Poison,0.7,6.9,0
+1,Bulbasaur,Grass,Poison,0.7,6.9,0
 2,Ivysaur,Grass,Poison,1,13,0
 3,Venusaur,Grass,Poison,2,100,0
 4,Charmander,Fire,,0.6,8.5,0
@@ -21,6 +25,10 @@ No,Name,Type1,Type2,Height,Weight,Legendary
 20,Raticate,Normal,,0.7,18.5,0
 21,Spearow,Normal,Flying,0.3,2,0
 22,Fearow,Normal,Flying,1.2,38,0
+22,Fearow,Normal,Flying,1.2,38,0
+22,Fearow,Normal,Flying,1.2,38,0
+22,Fearow,Normal,Flying,1.2,38,0
+22,Fearow,Normal,Flying,1.2,38,0
 23,Ekans,Poison,,2,6.9,0
 24,Arbok,Poison,,3.5,65,0
 25,Pikachu,Electric,,0.4,6,0
@@ -40,6 +48,10 @@ No,Name,Type1,Type2,Height,Weight,Legendary
 39,Jigglypuff,Normal,Fairy,0.5,5.5,0
 40,Wigglytuff,Normal,Fairy,1,12,0
 41,Zubat,Poison,Flying,0.8,7.5,0
+42,Golbat,Poison,Flying,1.6,55,0
+43,Oddish,Grass,Poison,0.5,5.4,0
+42,Golbat,Poison,Flying,1.6,55,0
+43,Oddish,Grass,Poison,0.5,5.4,0
 42,Golbat,Poison,Flying,1.6,55,0
 43,Oddish,Grass,Poison,0.5,5.4,0
 44,Gloom,Grass,Poison,0.8,8.6,0
